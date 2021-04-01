@@ -1,0 +1,1 @@
+UPDATE verifiable_credential_event SET sequence_and_payload = sequence || payload 

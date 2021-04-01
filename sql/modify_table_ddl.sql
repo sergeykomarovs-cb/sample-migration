@@ -1,0 +1,2 @@
+ALTER TABLE verifiable_credential_event
+ADD COLUMN sequence_and_payload TEXT;

@@ -1,0 +1,2 @@
+CREATE TABLE verifiable_credential_event_backup AS 
+TABLE verifiable_credential_event

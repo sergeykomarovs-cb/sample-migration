@@ -1,0 +1,1 @@
+PGPASSWORD=$1 psql -U postgres -d postgres -a -f ./sql/backup_table.sql -f ./sql/modify_table_ddl.sql -f ./sql/modify_table_dml.sql
